@@ -8,7 +8,6 @@ https://owntracks.org/ is a cool app you can use to send your location over HTTP
 
 ![Map](https://github.com/tspannhw/FLiP-OwnTracks-MQTT/blob/main/ownmap.png?raw=true)
 ![Map 2](https://github.com/tspannhw/FLiP-OwnTracks-MQTT/blob/main/ownmap2.png?raw=true)
-![Map 3](https://github.com/tspannhw/FLiP-OwnTracks-MQTT/blob/main/ownmap3.jpeg?raw=true)
 ![MQTT Settings](https://github.com/tspannhw/FLiP-OwnTracks-MQTT/blob/main/ownmqtt.png?raw=true)
 
 
@@ -44,3 +43,9 @@ key:[null], properties:[], content:{"_type":"location","acc":5,"alt":35,"batt":9
 
 
 ````
+
+
+## Not Map
+
+![Cat](https://github.com/tspannhw/FLiP-OwnTracks-MQTT/blob/main/ownmap3.jpeg?raw=true)
+
